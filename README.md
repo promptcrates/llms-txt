@@ -3,9 +3,8 @@
 Mirror of the machine citation map for [promptcrates.com](https://promptcrates.com/).
 
 - Live file: https://promptcrates.com/llms.txt
-- Full map (when deployed): https://promptcrates.com/llms-full.txt
-
-Copy in this repo is for agents and researchers who prefer GitHub raw URLs.
+- Identity repo: https://github.com/promptcrates/ai-prompt-library
+- Frameworks: https://github.com/promptcrates/prompt-frameworks
 
 Raw:
 
